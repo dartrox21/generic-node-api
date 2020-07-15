@@ -1,6 +1,6 @@
 {
-  "name": "edp",
-  "version": "0.0.1",
+  "name": "generic",
+  "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
