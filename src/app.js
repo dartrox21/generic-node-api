@@ -1,5 +1,4 @@
 require('dotenv').config({path: __dirname + '/configuration/.env'});
-// require('./configuration/env.config');
 require('./configuration/mongodb.config');
 const express = require('express');
 const bodyparser = require('body-parser');
